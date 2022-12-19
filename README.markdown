@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 This branch is for Jasmine 1.x.
 [Switch to the 2.x branch.](https://github.com/larrymyers/jasmine-reporters)
 
